@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Challenge</string>
+    <string name="btnFromService">Draw From Service</string>
+    <string name="btnFromDB">Draw from DB</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_add">This movie was added to favorites</string>
+</resources>

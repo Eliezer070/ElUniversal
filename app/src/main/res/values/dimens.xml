@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="defaultVerticalMargin">8sp</dimen>
+    <dimen name="defaultHorizontalMargin">20sp</dimen>
+    <dimen name="defaultVerticalPadding">8sp</dimen>
+    <dimen name="defaultHorizontalPadding">8sp</dimen>
+    <dimen name="defaultMargin">8dp</dimen>
+    <dimen name="bigMargin">16dp</dimen>
+    <dimen name="defaultTextSize">18dp</dimen>
+    <dimen name="normalTextSize">14dp</dimen>
+    <dimen name="smallTextSize">14dp</dimen>
+</resources>
